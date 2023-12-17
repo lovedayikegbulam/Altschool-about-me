@@ -5,7 +5,6 @@ This project is an Alt school Africa, software engineering program first semeste
 ## Getting Started
 
 This repository contains personal information, for assessment by Altschool Africa
-Do not use or redistribute
 
 ### Prerequisites
 
